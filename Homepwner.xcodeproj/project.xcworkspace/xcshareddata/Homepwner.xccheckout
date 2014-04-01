@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>25A1F565-3D67-4D24-A4E4-A8516DA73E06</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Homepwner</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>223A4ED7-8287-4AEC-B20B-E9B76DED63DB</key>
+		<string>ssh://github.com/StephenGrider/BNRios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Homepwner/Homepwner.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>223A4ED7-8287-4AEC-B20B-E9B76DED63DB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/StephenGrider/BNRios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>223A4ED7-8287-4AEC-B20B-E9B76DED63DB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>223A4ED7-8287-4AEC-B20B-E9B76DED63DB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
